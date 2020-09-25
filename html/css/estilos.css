@@ -1,0 +1,96 @@
+
+    body{
+        background-color: rgb(161, 236, 186);
+    }
+    .fonte1{
+        font-size: 14px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: darkgreen;
+    }
+p{
+    color: red;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+#area{
+    position: relative;
+    left: 37%;
+    top: 2em;
+    width: 360px;
+    height: 360px;
+}
+
+label{
+    font-weight: bold;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#area #formulario{
+    position: absolute;
+    display: block;
+}
+
+#formulario input.campo_nome{
+    background-color: rgb(209, 196, 196);
+    position: absolute;
+    left: 95px;
+    top: 23px;
+    width: 250px;
+}
+
+#formulario input.campo_email{
+    background-color: rgb(209, 196, 196);
+    position: absolute;
+    left: 95px;
+    top: 44px;
+    width: 250px;
+}
+
+#formulario input.campo_senha{
+    background-color: rgb(209, 196, 196);
+    position: absolute;
+    left: 95px;
+    top: 65px;
+    width: 250px;
+}
+
+.container{
+    border: 3px solid yellowgreen;
+    min-height: 500px
+    
+    }
+
+    .div1{
+        border: 2px solid red;    
+       }
+       
+       .div2{
+        border: 2px solid green;    
+       }
+       
+       .div3{
+        border: 2px solid yellow;    
+       }
+       
+       .div4{
+        border: 2px solid blue;    
+       }
+
+ 
+
+       .div5{
+        border: 2px solid orange;    
+       }
+
+ 
+
+       .div6{
+        border: 3px solid yellow;    
+       }
+       
+       .div7{
+        border: 2px solid blue;    
+       }
